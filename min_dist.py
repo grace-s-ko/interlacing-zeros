@@ -8,7 +8,7 @@ H = DirichletGroup(1, base_ring=CyclotomicField(1))
 chi = DirichletCharacter(H, H._module([]))
 pi = numerical_approx(pi, digits=30)
 
-MM = 47
+MM = 46
 result = []
 arr_upper = []
 min_arr = []
