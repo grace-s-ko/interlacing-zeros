@@ -45,8 +45,8 @@ def zeros(NN, MM):
                 result.append([M, arr_upper])
     return result
 
-k_zeros = zeros(7,39)
-kp_zeros = zeros(7,44)
+k_zeros = zeros(7,47)
+kp_zeros = zeros(7,53)
 
 def check_int(k_arr, kp_arr):
   interlacing = True
